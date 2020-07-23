@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Know Your Facts</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Frag1text">The word queue is the only word in\nthe English language that is still pronounced\nthe same way when the last four letters are\nremoved.\n\nBeetles taste like apples, wasps like pine\nnuts, and worms like fried bacon.\n\nOf all the words in the English language,\nthe word 'set' has the most definitions!</string>
+    <string name="Frag2text">Months that begin on a Sunday will always\nhave a "Friday the 13th."\n\nCoca-Cola would be green if colouring\nweren’t added to it.\n\nOn average a hedgehog's  heart beats 300\ntimes a minute.</string>
+    <string name="col">Change Colour</string>
+</resources>
